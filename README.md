@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Toshiki-data
-- 👀 I’m interested in Data Analysis, Machine Learning
-- 📫 How to reach me : 
+🐙Aspiring Data Analyst / Future Data Scientist
+🐙Former SAP Engineer (Certified Application Associate (Financial Accounting))
+
+🐙I’m currently exploring new opportunities in data analysis and data science :)
